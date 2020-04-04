@@ -13,7 +13,7 @@ body {
     color: #ddd;
     background-color: #17161E;
 }
-/* scrollbar */
+/* scrollbar
 body::-webkit-scrollbar {
     appearance: none;
     width: 10px;
@@ -29,7 +29,7 @@ body::-webkit-scrollbar-thumb {
 
     scrollbar-color:  rgb(0, 0, 0);
     scrollbar-width: 10px;
-}
+} */
 
 /* Reusable code */
 ul {
